@@ -1,6 +1,6 @@
 # Bitcoin Value Checker
 
-My Python script allows you to check the current value of a single Bitcoin using the api from coinbase.com. Don't you wish you had a time machine? 
+My Python script allows you to check the current value of a single Bitcoin using the api from coinbase.com. Don't you wish you had a time machine to buy bitcoin when it was affordable? 
 
 ## Prerequisites
 
