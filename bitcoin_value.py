@@ -1,5 +1,5 @@
 """
-Query Parameters for coinbase api
+Query parameters for coinbase api
 """
 
 import requests as r
