@@ -1,5 +1,6 @@
 """
 Query parameters for coinbase api
+- C. RIN
 """
 
 import requests as r
