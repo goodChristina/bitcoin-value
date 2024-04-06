@@ -8,6 +8,7 @@ import sys
 from time import sleep
 import datetime
 
+# ANSI escape code
 PURPLE = "\033[1;35m"
 GREEN = "\033[1;32m"
 NC = "\033[0m"
@@ -34,9 +35,9 @@ def typewriter(text, delay=0.05):
         sleep(delay)
 
 
-typewriter(border)
+typewriter(border, delay=0.01)
 print()
 typewriter(message)
 print(time, "\n")
-typewriter(border)
+typewriter(border, delay=0.01)
 print()
