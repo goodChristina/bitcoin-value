@@ -24,7 +24,7 @@ uk_bitcoin = float(resp.json()["data"]["rates"]["GBP"])
 
 message = f"{GREEN}If you had bitcoin, each one would be worth ${us_bitcoin:.2f}, or £{uk_bitcoin:.2f}.{NC}\n"
 border = f"{PURPLE}{'-'*70}{NC}\n"
-time = f"Exact time is: {current_time}"
+time = f"{PURPLE}Exact time is: {current_time}{NC}"
 
 
 # typewriter
