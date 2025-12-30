@@ -1,3 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" align=center width="600">
+<br><br>
+
 # Bitcoin Value Checker
 
 My Python script allows you to check the current value of a single Bitcoin using the api from coinbase.com. Don't you wish you had a time machine to buy bitcoin when it was affordable? 
