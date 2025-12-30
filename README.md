@@ -13,3 +13,6 @@ My Python script allows you to check the current value of a single Bitcoin using
   ```
 ## Extras
 You can use the website-checker in my repository to see if the coinbase api is still running. 
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<br><br>
